@@ -1,0 +1,8 @@
+COMMANDS:
+conda create -p venv python==3.10
+create requirement.txt
+conda activate /venv
+pip install -r requirement.txt
+to run jupitornotbook files: pip install ipykernel
+.ipynb -> jupitor notebook file 
+
