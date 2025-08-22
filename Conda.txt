@@ -6,3 +6,5 @@ pip install -r requirement.txt
 to run jupitornotbook files: pip install ipykernel
 .ipynb -> jupitor notebook file 
 
+to check all the conda enviroments: conda env list
+
